@@ -1,2 +1,2 @@
-# https://github.com/pnixsoft/mqzhang
+# https://pnixsoft.github.io/mqzhang
 
